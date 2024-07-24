@@ -5,6 +5,10 @@
 - MongoDB Integration: Stores the counting data with timestamps in a MongoDB database.
 - Statistics Visualization: Plots and displays the counts over time using Matplotlib.
 
+
+# DEMO Images
+![Custom Line Drawing](assets/image2.png) 
+
 # Installation
 1. Clone the repository:
 ```
